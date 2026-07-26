@@ -11,5 +11,5 @@ A curated collection of Python scripts and academic projects demonstrating deter
 
 **Humanitarian & Industrial Applications** – Data-informed strategies for logistics, facility planning, and supply resilience.
 
-*Project 1 - Demand Forecasting with Machine Learning - *
+*Project 1 - Demand Forecasting with Machine Learning*<br>
 This project is an end-to-end demand planning tool applying machine learning algorithms for time-series forecasting to support procurement decisions. It provides a demand forecast based on a best fit of different ML models.
