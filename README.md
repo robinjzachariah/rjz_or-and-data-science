@@ -10,3 +10,6 @@ A curated collection of Python scripts and academic projects demonstrating deter
 **Data Engineering** – Integration of ERP, Power BI, and Python for process visibility and automation.
 
 **Humanitarian & Industrial Applications** – Data-informed strategies for logistics, facility planning, and supply resilience.
+
+*Project 1 - Demand Forecasting with Machine Learning*
+his project is an end-to-end demand planning tool applying machine learning algorithms for time-series forecasting to support procurement decisions. It provides a demand forecast based on a best fit of different ML models.
