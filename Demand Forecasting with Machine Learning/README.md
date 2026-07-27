@@ -1,1 +1,1 @@
-
+This project is an end-to-end demand planning tool applying machine learning algorithms for time-series forecasting to support procurement decisions. It provides a demand forecast based on a best fit of different ML models.
